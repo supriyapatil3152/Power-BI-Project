@@ -4,7 +4,7 @@ Home Loan Analytics: Visualizing Application Trends, Sanctioning, and Recovery I
 Tool: Power BI Desktop  
 To view the visualizations, you'll need to open the file in Power BI Desktop.
 
-Steps to Analyse Your Power BI Project
+Steps to Analyse Your Power BI Project:
 1.	Data Loading and Preparation:
 o	Import Data: Ensure the home loan data is properly loaded into Power BI.
 2.	Total Amount Applied:
